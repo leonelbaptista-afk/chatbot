@@ -5,9 +5,10 @@ __pycache__/
 *.pyd
 .venv/
 .env
+.langgraph_api
 # uv.lock
 *.log
-*.ipynb
+# *.ipynb
 # logs/
-docs/
-test.txt
+# docs/
+# test.txt
